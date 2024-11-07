@@ -12,13 +12,13 @@
 
 ## Github Status :
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=VivekPcSolution&show_icons=true&locale=en" alt="VivekPcSolution" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hackercoder24&show_icons=true&locale=en" alt="hackercoder24" /></p>
 
 
 ## Contact Info :
 
 
-<a href="https://t.me/ChVivekBro"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
+<a href="https://t.me/Nda8009"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
 
 
 ## For Better Understanding

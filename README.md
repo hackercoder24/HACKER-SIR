@@ -1,4 +1,4 @@
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=Hey!+This+is+Vivek+Tomar;+Known+For+Batch+Extraction+;Its+Just+Not+a+Name+Bro+;Its+a+Brand)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=Hey!+This+is+Hacker+Sir;+Known+For+Batch+Extraction+;Its+Just+Not+a+Name+Hacker+;Its+a+Brand)](https://git.io/typing-svg)
 
 </p>
 
@@ -6,7 +6,7 @@
 
 
 ## <br><p align="center"><b>Profile Vɪꜱɪᴛᴏʀꜱ Cᴏᴜɴᴛ</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{VivekPcSolution}/count.svg" /></p>
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{➸ᴹᴿ°ɧąƈƙɛཞ ™࿐ }/count.svg" /></p>
 <p align="center">
 
 
